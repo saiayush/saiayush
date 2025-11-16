@@ -12,5 +12,4 @@
 - 📧 sayush@hawk.illinoistech.edu
 - 💼 [LinkedIn]([https://linkedin.com/in/your-link-here](https://www.linkedin.com/in/saiayush/))
 
-<!-- GitHub Stats -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saiayush&show_icons=true&hide_border=true)
+
