@@ -6,10 +6,8 @@
 I love building things that **sense, decide, and act**: from embedded hardware to optimized AI running on edge devices.
 
 ## 🚀 What I'm Working On
-- 🤖 Autonomous systems — sensor fusion, control loops, real-time robotics  
-- 🧠 Edge AI — quantization (INT8/16/32), lightweight CNNs, VGG-Lite  
-- 🔐 ML Security — adversarial robustness, PGD, self-training, certified defenses  
-- ⚡ Embedded Development — PIC microcontrollers, low-level C/C++ drivers  
+- 🤖 Autonomous systems — sensor fusion, control loops, real-time robotics   
+- ⚡ Embedded Development — PIC microcontrollers, low-level C/C++ drivers , FreeRTOS
 - ☁️ Scalable Systems — Kubernetes, containerized microservices  
 
 ## 🛠️ Tech I Work With
