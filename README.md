@@ -6,9 +6,9 @@
 I love building things that **sense, decide, and act**: from embedded hardware to optimized AI running on edge devices.
 
 ## 🚀 What I'm Working On
-- 🤖 Autonomous systems — sensor fusion, control loops, real-time robotics   
-- ⚡ Embedded Development — PIC microcontrollers, low-level C/C++ drivers , FreeRTOS
-- ☁️ Scalable Systems — Kubernetes, containerized microservices  
+- 🤖 Autonomous systems — sensor fusion, control loops, real-time robotics, SLAM
+- ⚡ Embedded Development — PIC microcontrollers, FreeRTOS, ESP32, STM32, ROS2, IoT
+- ☁️ Computer Vision — Vision Transformers, Face Matching and Recognition
 
 ## 🛠️ Tech I Work With
 
@@ -16,18 +16,18 @@ I love building things that **sense, decide, and act**: from embedded hardware t
 - Python • C • C++ • Embedded C 
 
 ### **AI / ML**
-- PyTorch • TensorFlow • Scikit-learn  
-- Computer Vision • Model Optimization • Quantization   
+- PyTorch • TensorFlow • Scikit-learn • NumPy • Pandas
+- Computer Vision • Model Optimization • Transformers
 
 ### **Embedded, Robotics & Hardware**
 - PIC Microcontrollers  
 - Arduino • Raspberry Pi  • FriendlyARM
-- UART • SPI • I2C • PWM • Timers • Interrupts  
+- UART • SPI • I2C • PWM • Timers • Interrupts
+- ROS2 • FreeRTOS
 
 ### **Software & Tools**
 - AutoCAD • SolidWorks • Unity3D  
 - Git • Linux  
-- ROS2 (learning) • RTOS (learning)
 
 ## 📫 Reach Me
 - 📧 **sayush@hawk.illinoistech.edu**  
